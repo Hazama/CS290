@@ -1,5 +1,5 @@
 {
-  "name": "GET POST Checker",
+  "name": "GPCheck",
   "version": "1.0.0",
   "description": "A Get/Post Checker using Express",
   "main": "gpost.js",
